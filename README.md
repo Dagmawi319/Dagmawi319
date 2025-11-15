@@ -1,4 +1,4 @@
-# 💫 Hi, I’m Dagmawi Addisu
+#  Hi, I’m Dagmawi Addisu
 A passionate full-stack developer from Addis Ababa, Ethiopia. I specialize in building web applications with modern technologies and enjoy creating solutions that are both practical and scalable. I love learning new technologies, building projects from scratch, and solving real-world problems with code.
 
 
